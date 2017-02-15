@@ -1,0 +1,73 @@
+.navbar {
+  margin-bottom: 0;
+}
+
+.big-padding {
+  padding: 30px;
+}
+
+.no-magin {
+  margin: 0px;
+}
+
+.no-padding {
+  padding: 0px;
+}
+
+.blue-grey {
+  background-color: #37474f;
+}
+
+.white-text {
+  color: white;
+}
+
+.red-text {
+  color: red;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.table {
+  background-color: white;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.white {
+  background-color: white;
+}
+
+.floating {
+  position: fixed;
+  bottom: 2em;
+  right: 2em;
+  z-index: 100;
+}
+
+.no-transform {
+  text-transform: none;
+}
+
+.product {
+  width: 600px;
+  max-width: 100%;
+  position: relative;
+  padding: 1em;
+}
+
+.product h1 {
+  padding-bottom: 10px;
+  border-bottom: solid 1px;
+}
+
+.product .actions {
+  right: 1em;
+  top: 10px;
+}
+
+/*# sourceMappingURL=app.css.map */
